@@ -1,0 +1,57 @@
+body {
+    background-color: #00142F;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: Roboto;
+    color: #EAD6BD;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: Roboto;
+    color: #FFF;
+    text-align: center;
+}
+
+table {
+    border: 2px white solid;
+    width: 800px;
+    padding: 10px;
+    border-radius: 7px;
+    font-family: Roboto;
+    margin: 0 auto;
+}
+
+tbody td {
+    color: white;
+    border-top: 1px  solid white;
+}
+
+thead th {
+    color: white;
+    background-color: #A88661;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 3px 0 3px 0;
+    font-size: 18px;
+}
+
+.tableCol2 {
+    width: 120px;
+}
+
+.tableCol1{
+    width: 120px;
+}
+
+.tdBg {
+    background-color: #504E63;
+    border-radius: 5px;
+    font-size: small;
+    text-align: center;
+    font-weight: bold;
+}
